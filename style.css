@@ -5,6 +5,7 @@ html{
     padding: 0;
 }
 body{
+    font-family: 'Times New Roman', Times, serif;
     background-color: aqua;
     display: flex;
     justify-content: center;
@@ -65,6 +66,7 @@ margin: 0;
 }
 .item__email{
 margin: 0;
+color: #7c776c;
 }
 .item__icone{
     padding: 15px;
